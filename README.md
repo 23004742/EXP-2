@@ -1,7 +1,4 @@
 # Experiment 2: Blockchain-Based Crowdfunding (Kickstarter Alternative)
-# Name:L yagnesh kumar reddy
-# Reg no:2122223100024
-# Date:28/04/2025
 ## Aim:
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
 
